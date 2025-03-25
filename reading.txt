@@ -1,4 +1,4 @@
 C++ como se programa
-página nº 77
+página nº 101
 
-tema "O precesso de compilação e vinculação"
+tema "Dica de desempenho 4.1"
