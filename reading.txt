@@ -1,4 +1,4 @@
 C++ como se programa
-página nº 73
+página nº 77
 
-tem "O precesso de compilação e vinculação"
+tema "O precesso de compilação e vinculação"
