@@ -1,4 +1,4 @@
 C++ como se programa
 página nº 109
 
-tema "Dica de desempenho 4.1"
+tema "Prosseguindo para o segundo refinamento"
