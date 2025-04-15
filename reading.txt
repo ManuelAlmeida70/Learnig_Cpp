@@ -1,4 +1,2 @@
 C++ como se programa
-página nº 109
-
-tema "Prosseguindo para o segundo refinamento"
+página nº 101

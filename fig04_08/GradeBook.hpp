@@ -1,4 +1,5 @@
-
+#ifndef GRADEBOOK_HPP
+# define GRADEBOOK_HPP
 
 #include <string>
 
@@ -15,3 +16,5 @@ class {
         void displayMessage();
         void determineClassAverage();
 };
+
+#endif
