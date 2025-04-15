@@ -3,15 +3,15 @@
 
 #include <string>
 
-using st::string;
+using std::string;
 
 
-class {
+class GradeBook{
     private:
-        string couseName;
+        string courseName;
     public:
-        GradeBook( string);
-        void setCourseName();
+        GradeBook( string );
+        void setCourseName( string );
         string getCourseName();
         void displayMessage();
         void determineClassAverage();
