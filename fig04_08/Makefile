@@ -23,4 +23,9 @@ fclean: clean
 	rm -f $(exec)
 
 re: fclean all
+
+run:
+	./$(exec)
+
+.PHONY: re clean fclean run
 	
