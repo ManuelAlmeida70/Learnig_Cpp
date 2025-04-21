@@ -37,3 +37,9 @@ fclean: clean
 
 #Recompilação
 re: fclean all
+
+#Run
+run:
+	./$(EXEC)
+
+.PHONY: all clean fclean re run
