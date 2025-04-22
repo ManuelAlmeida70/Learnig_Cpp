@@ -12,7 +12,7 @@ class  GradeBook
     public:
         GradeBook( string );
         void setCourseName( string);
-        string getCourseName()
+        string getCourseName();
         void displayMessage();
         void determineClassAverage();
 };
