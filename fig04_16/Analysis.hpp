@@ -3,5 +3,8 @@
 
 class Analysis
 {
-	public processExamResults();
+	public:
+		void processExamResults();
 };
+
+#endif
