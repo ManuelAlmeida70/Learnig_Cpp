@@ -1,2 +1,4 @@
 C++ como se programa
 página nº 147
+
+Boa prática de programação 5.7
