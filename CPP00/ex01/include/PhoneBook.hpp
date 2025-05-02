@@ -1,5 +1,17 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   PhoneBook.hpp                                      :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: maalmeid <maalmeid@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2025/04/28 10:07:17 by maalmeid          #+#    #+#             */
+/*   Updated: 2025/05/02 11:13:42 by maalmeid         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #ifndef PHONEBOOK_HPP
-# define PHONE
+# define PHONEBOOK_HPP
 
 #include "Contact.hpp"
 
@@ -15,6 +27,7 @@ class PhoneBook {
         void searchContact() const;
         void displayContactList() const;
         void displayContact(int index) const;
+        void formatField(const std::string& field) const;
 };
 
 #endif
